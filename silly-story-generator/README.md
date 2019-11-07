@@ -1,0 +1,3 @@
+# silly-story-generator
+
+This is a web application that generates random silly stories when the "Generate random story" button is pressed. It replaces the default name "Bob" in the story with a custom name when a custom name is entered into the "Enter custom name" text field before the generate button is pressed. Moreover, it converts the default U.S. weight and temperature quantities and units in the story into U.K. equivalents if the "UK" radio button is checked before the generate button is pressed. It will continue to generate a different random silly story as the button is pressed again and again. This project can be found [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator).
